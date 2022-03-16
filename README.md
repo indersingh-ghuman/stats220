@@ -3,7 +3,7 @@
 
 *The purpose of this repo is to dispaly my work done in STATS220*
 
--To find my repo [click me](https://indersingh-ghuman.github.io/stats220/) and feel free to follow me.
+-To find my repo page [click me](https://indersingh-ghuman.github.io/stats220/) and feel free to follow me.
 
 ## About Me
 **As of making this,**
