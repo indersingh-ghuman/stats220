@@ -10,4 +10,5 @@
 - I am a 2nd year student at the University of Auckland, studying Bachelor of Science Majoring in both Computer Science and Statistics.
 - I am dog person (who's to say I won't in the future).
 -  My favourite ice cream is salted caramel.
+
 (^ in order of priorites) 
